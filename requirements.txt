@@ -1,0 +1,10 @@
+seaborn
+pandas
+numpy
+ipykernel
+scikit-learn
+plotly-express
+nbformat>=4.2.0
+streamlit
+databricks-sql-connector
+python-dotenv
