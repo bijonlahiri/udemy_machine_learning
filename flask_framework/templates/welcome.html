@@ -1,0 +1,22 @@
+<html>
+    <h1>
+        Welcome to this Flask Application developed by Bijon Lahiri!
+    </h1>
+    <body>
+        <h2>
+            This application attempts to describe the tables in databricks SQL warehouse.
+        </h2>
+        <h3>
+            The following are the list of available tables in the warehouse:
+            {% for table in table_list %}
+                <li>
+                    {{ table }}
+                    <a href="/describe_table/{{ table }}">(click here for details)</a>
+                </li>
+            {% endfor %}
+        </h3>
+        To access the description of each table, 
+        please navigate to the <b>/describe_table</b> route
+        with the table name as the query parameter.
+    </body>
+</html>
