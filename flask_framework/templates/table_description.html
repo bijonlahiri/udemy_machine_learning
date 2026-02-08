@@ -1,0 +1,29 @@
+<html>
+    <h2>
+        Table Details of {{ table_name }}
+    </h2>
+    <body>
+        <h2>Table Description</h2>
+        <div>
+            {{ table_description | safe}}
+        </div>
+        <br>
+        <h2>Table Row Count</h2>
+        <div>
+            {{ table_rows | safe}}
+        </div>
+        <br>
+        <h2>Site Information</h2>
+        <div>
+            {{ site_info | safe}}
+        </div>
+        <br>
+        <h2>UE Details</h2>
+        <div>
+            {{ ue_info | safe}}
+        </div>
+        <h3>
+            Navigate back to <a href="/">Home Page</a>
+        </h3>
+    </body>
+</html>
