@@ -1,0 +1,175 @@
+feature,coeff
+numeric__Order,0.0
+numeric__2nd Flr SF,0.0
+categorical__MS Zoning_A (agr),0.0
+categorical__MS Zoning_C (all),-0.0
+categorical__MS Zoning_FV,0.0
+categorical__MS Zoning_I (all),0.0
+categorical__MS Zoning_RH,0.0
+categorical__Street_Grvl,-0.0
+categorical__Street_Pave,0.0
+categorical__Alley_Grvl,0.0
+categorical__Alley_Pave,-0.0
+categorical__Lot Shape_IR1,-0.0
+categorical__Lot Shape_IR3,-0.0
+categorical__Lot Shape_Reg,0.0
+categorical__Land Contour_Low,-0.0
+categorical__Land Contour_Lvl,0.0
+categorical__Utilities_AllPub,0.0
+categorical__Utilities_NoSeWa,0.0
+categorical__Utilities_NoSewr,0.0
+categorical__Lot Config_Corner,0.0
+categorical__Lot Config_FR2,-0.0
+categorical__Lot Config_FR3,-0.0
+categorical__Lot Config_Inside,-0.0
+categorical__Land Slope_Gtl,0.0
+categorical__Neighborhood_Blmngtn,-0.0
+categorical__Neighborhood_Blueste,0.0
+categorical__Neighborhood_BrDale,0.0
+categorical__Neighborhood_ClearCr,-0.0
+categorical__Neighborhood_CollgCr,0.0
+categorical__Neighborhood_Greens,0.0
+categorical__Neighborhood_IDOTRR,-0.0
+categorical__Neighborhood_Landmrk,0.0
+categorical__Neighborhood_MeadowV,-0.0
+categorical__Neighborhood_NPkVill,0.0
+categorical__Neighborhood_SWISU,-0.0
+categorical__Neighborhood_Timber,-0.0
+categorical__Neighborhood_Veenker,-0.0
+categorical__Condition 1_PosA,0.0
+categorical__Condition 1_RRAe,-0.0
+categorical__Condition 1_RRAn,0.0
+categorical__Condition 1_RRNe,0.0
+categorical__Condition 1_RRNn,-0.0
+categorical__Condition 2_Artery,0.0
+categorical__Condition 2_Feedr,-0.0
+categorical__Condition 2_Norm,-0.0
+categorical__Condition 2_PosA,0.0
+categorical__Condition 2_PosN,0.0
+categorical__Condition 2_RRAe,0.0
+categorical__Condition 2_RRAn,0.0
+categorical__Condition 2_RRNn,0.0
+categorical__Bldg Type_Duplex,-0.0
+categorical__Bldg Type_TwnhsE,-0.0
+categorical__House Style_1.5Unf,0.0
+categorical__House Style_2.5Fin,0.0
+categorical__House Style_2.5Unf,0.0
+categorical__House Style_SLvl,-0.0
+categorical__Roof Style_Flat,-0.0
+categorical__Roof Style_Gable,0.0
+categorical__Roof Style_Gambrel,-0.0
+categorical__Roof Style_Mansard,-0.0
+categorical__Roof Style_Shed,0.0
+categorical__Roof Matl_CompShg,0.0
+categorical__Roof Matl_Membran,0.0
+categorical__Roof Matl_Metal,0.0
+categorical__Roof Matl_Roll,0.0
+categorical__Roof Matl_Tar&Grv,-0.0
+categorical__Roof Matl_WdShake,-0.0
+categorical__Exterior 1st_AsbShng,-0.0
+categorical__Exterior 1st_AsphShn,0.0
+categorical__Exterior 1st_BrkComm,0.0
+categorical__Exterior 1st_CBlock,0.0
+categorical__Exterior 1st_ImStucc,0.0
+categorical__Exterior 1st_Plywood,-0.0
+categorical__Exterior 1st_PreCast,0.0
+categorical__Exterior 1st_Stone,0.0
+categorical__Exterior 1st_VinylSd,0.0
+categorical__Exterior 1st_Wd Sdng,-0.0
+categorical__Exterior 2nd_AsbShng,-0.0
+categorical__Exterior 2nd_AsphShn,0.0
+categorical__Exterior 2nd_Brk Cmn,0.0
+categorical__Exterior 2nd_BrkFace,-0.0
+categorical__Exterior 2nd_CBlock,0.0
+categorical__Exterior 2nd_CmentBd,0.0
+categorical__Exterior 2nd_ImStucc,0.0
+categorical__Exterior 2nd_PreCast,0.0
+categorical__Exterior 2nd_Stone,0.0
+categorical__Exterior 2nd_Stucco,-0.0
+categorical__Exterior 2nd_Wd Sdng,-0.0
+categorical__Exterior 2nd_Wd Shng,-0.0
+categorical__Mas Vnr Type_BrkFace,0.0
+categorical__Mas Vnr Type_CBlock,0.0
+categorical__Exter Qual_Fa,0.0
+categorical__Exter Qual_Gd,-0.0
+categorical__Exter Cond_Ex,-0.0
+categorical__Exter Cond_Fa,-0.0
+categorical__Exter Cond_Gd,0.0
+categorical__Exter Cond_Po,0.0
+categorical__Foundation_BrkTil,0.0
+categorical__Foundation_CBlock,-0.0
+categorical__Foundation_Stone,0.0
+categorical__Foundation_Wood,0.0
+categorical__Bsmt Qual_Fa,0.0
+categorical__Bsmt Qual_Po,0.0
+categorical__Bsmt Qual_TA,-0.0
+categorical__Bsmt Cond_Ex,0.0
+categorical__Bsmt Cond_Fa,0.0
+categorical__Bsmt Cond_Po,0.0
+categorical__Bsmt Cond_TA,0.0
+categorical__BsmtFin Type 2_BLQ,-0.0
+categorical__BsmtFin Type 2_LwQ,-0.0
+categorical__BsmtFin Type 2_Rec,-0.0
+categorical__BsmtFin Type 2_Unf,0.0
+categorical__Heating_Floor,0.0
+categorical__Heating_GasA,0.0
+categorical__Heating_GasW,0.0
+categorical__Heating_Grav,-0.0
+categorical__Heating_OthW,0.0
+categorical__Heating_Wall,0.0
+categorical__Heating QC_Fa,-0.0
+categorical__Heating QC_Gd,0.0
+categorical__Heating QC_Po,0.0
+categorical__Central Air_N,-0.0
+categorical__Central Air_Y,0.0
+categorical__Electrical_FuseA,-0.0
+categorical__Electrical_FuseF,-0.0
+categorical__Electrical_FuseP,0.0
+categorical__Electrical_Mix,0.0
+categorical__Kitchen Qual_Fa,-0.0
+categorical__Kitchen Qual_Gd,0.0
+categorical__Functional_Maj1,-0.0
+categorical__Functional_Maj2,-0.0
+categorical__Functional_Min1,0.0
+categorical__Functional_Min2,0.0
+categorical__Functional_Mod,-0.0
+categorical__Functional_Sal,0.0
+categorical__Functional_Sev,0.0
+categorical__Fireplace Qu_Fa,-0.0
+categorical__Fireplace Qu_Gd,-0.0
+categorical__Fireplace Qu_Po,0.0
+categorical__Garage Type_2Types,-0.0
+categorical__Garage Type_Attchd,0.0
+categorical__Garage Type_BuiltIn,0.0
+categorical__Garage Type_CarPort,-0.0
+categorical__Garage Finish_Unf,0.0
+categorical__Garage Qual_Ex,0.0
+categorical__Garage Qual_Fa,-0.0
+categorical__Garage Qual_Po,0.0
+categorical__Garage Qual_TA,-0.0
+categorical__Garage Cond_Ex,0.0
+categorical__Garage Cond_Fa,-0.0
+categorical__Garage Cond_Gd,0.0
+categorical__Garage Cond_Po,-0.0
+categorical__Paved Drive_N,0.0
+categorical__Paved Drive_Y,0.0
+categorical__Pool QC_Fa,0.0
+categorical__Pool QC_Gd,-0.0
+categorical__Pool QC_TA,0.0
+categorical__Fence_GdPrv,-0.0
+categorical__Fence_GdWo,-0.0
+categorical__Fence_MnPrv,0.0
+categorical__Fence_MnWw,-0.0
+categorical__Misc Feature_Othr,0.0
+categorical__Misc Feature_Shed,-0.0
+categorical__Sale Type_CWD,-0.0
+categorical__Sale Type_Con,0.0
+categorical__Sale Type_ConLD,0.0
+categorical__Sale Type_ConLI,0.0
+categorical__Sale Type_ConLw,0.0
+categorical__Sale Type_Oth,0.0
+categorical__Sale Type_VWD,0.0
+categorical__Sale Condition_AdjLand,0.0
+categorical__Sale Condition_Alloca,0.0
+categorical__Sale Condition_Normal,0.0
+categorical__Sale Condition_Partial,0.0
