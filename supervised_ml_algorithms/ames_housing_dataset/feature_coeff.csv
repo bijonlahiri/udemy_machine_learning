@@ -1,0 +1,292 @@
+feature,coeff
+numeric__Order,0.0
+numeric__PID,-512.7827303637835
+numeric__MS SubClass,-5979.945193121643
+numeric__Lot Area,4234.471881023715
+numeric__Overall Qual,13550.38224080027
+numeric__Overall Cond,5764.571937199132
+numeric__Year Built,10800.267157440037
+numeric__Year Remod/Add,1435.1356283977468
+numeric__1st Flr SF,2947.1109186487347
+numeric__2nd Flr SF,0.0
+numeric__Low Qual Fin SF,-1308.8315302507604
+numeric__Gr Liv Area,30101.7961906897
+numeric__Full Bath,1932.967819074694
+numeric__Half Bath,1405.9900912610021
+numeric__Bedroom AbvGr,-2687.9920032124146
+numeric__Kitchen AbvGr,-1531.1750543130531
+numeric__TotRms AbvGrd,-359.9162184733922
+numeric__Fireplaces,3162.8217898035014
+numeric__Wood Deck SF,1809.159074743609
+numeric__Open Porch SF,-2.8191154744419973
+numeric__Enclosed Porch,783.968049581821
+numeric__3Ssn Porch,307.25106260896206
+numeric__Screen Porch,3600.2412102475314
+numeric__Pool Area,1808.273635256434
+numeric__Misc Val,-3850.900194624673
+numeric__Mo Sold,-160.37722245006893
+numeric__Yr Sold,-1167.5504511807308
+categorical__MS Zoning_A (agr),0.0
+categorical__MS Zoning_C (all),-0.0
+categorical__MS Zoning_FV,0.0
+categorical__MS Zoning_I (all),0.0
+categorical__MS Zoning_RH,0.0
+categorical__MS Zoning_RL,895.2886186700722
+categorical__MS Zoning_RM,-1454.577223252943
+categorical__Street_Grvl,-0.0
+categorical__Street_Pave,0.0
+categorical__Alley_Grvl,0.0
+categorical__Alley_Pave,-0.0
+categorical__Lot Shape_IR1,-0.0
+categorical__Lot Shape_IR2,3669.5552240221
+categorical__Lot Shape_IR3,-0.0
+categorical__Lot Shape_Reg,0.0
+categorical__Land Contour_Bnk,-8569.691500646606
+categorical__Land Contour_HLS,4937.342068896014
+categorical__Land Contour_Low,-0.0
+categorical__Land Contour_Lvl,0.0
+categorical__Utilities_AllPub,0.0
+categorical__Utilities_NoSeWa,0.0
+categorical__Utilities_NoSewr,0.0
+categorical__Lot Config_Corner,0.0
+categorical__Lot Config_CulDSac,4362.77174716933
+categorical__Lot Config_FR2,-0.0
+categorical__Lot Config_FR3,-0.0
+categorical__Lot Config_Inside,-0.0
+categorical__Land Slope_Gtl,0.0
+categorical__Land Slope_Mod,2375.619250651083
+categorical__Land Slope_Sev,-814.2686714180735
+categorical__Neighborhood_Blmngtn,-0.0
+categorical__Neighborhood_Blueste,0.0
+categorical__Neighborhood_BrDale,0.0
+categorical__Neighborhood_BrkSide,3544.717443766896
+categorical__Neighborhood_ClearCr,-0.0
+categorical__Neighborhood_CollgCr,0.0
+categorical__Neighborhood_Crawfor,12027.880981248922
+categorical__Neighborhood_Edwards,-4554.268036632262
+categorical__Neighborhood_Gilbert,-4096.131049158676
+categorical__Neighborhood_Greens,0.0
+categorical__Neighborhood_GrnHill,5667.921740397057
+categorical__Neighborhood_IDOTRR,-0.0
+categorical__Neighborhood_Landmrk,0.0
+categorical__Neighborhood_MeadowV,-0.0
+categorical__Neighborhood_Mitchel,-2943.13964069619
+categorical__Neighborhood_NAmes,-1349.0975430324477
+categorical__Neighborhood_NPkVill,0.0
+categorical__Neighborhood_NWAmes,-3563.1858685426255
+categorical__Neighborhood_NoRidge,40056.83929893272
+categorical__Neighborhood_NridgHt,25266.73610882527
+categorical__Neighborhood_OldTown,-1832.557563267818
+categorical__Neighborhood_SWISU,-0.0
+categorical__Neighborhood_Sawyer,465.2289573936594
+categorical__Neighborhood_SawyerW,-160.6588182491256
+categorical__Neighborhood_Somerst,12363.009157648437
+categorical__Neighborhood_StoneBr,39546.89624683881
+categorical__Neighborhood_Timber,-0.0
+categorical__Neighborhood_Veenker,-0.0
+categorical__Condition 1_Artery,-1892.7706017883156
+categorical__Condition 1_Feedr,-15.017375297962746
+categorical__Condition 1_Norm,6247.559795086265
+categorical__Condition 1_PosA,0.0
+categorical__Condition 1_PosN,7679.251491518609
+categorical__Condition 1_RRAe,-0.0
+categorical__Condition 1_RRAn,0.0
+categorical__Condition 1_RRNe,0.0
+categorical__Condition 1_RRNn,-0.0
+categorical__Condition 2_Artery,0.0
+categorical__Condition 2_Feedr,-0.0
+categorical__Condition 2_Norm,-0.0
+categorical__Condition 2_PosA,0.0
+categorical__Condition 2_PosN,0.0
+categorical__Condition 2_RRAe,0.0
+categorical__Condition 2_RRAn,0.0
+categorical__Condition 2_RRNn,0.0
+categorical__Bldg Type_1Fam,6732.4900637951905
+categorical__Bldg Type_2fmCon,14330.048440650566
+categorical__Bldg Type_Duplex,-0.0
+categorical__Bldg Type_Twnhs,-3329.9914307864287
+categorical__Bldg Type_TwnhsE,-0.0
+categorical__House Style_1.5Fin,-721.1368079684197
+categorical__House Style_1.5Unf,0.0
+categorical__House Style_1Story,3994.5262999788515
+categorical__House Style_2.5Fin,0.0
+categorical__House Style_2.5Unf,0.0
+categorical__House Style_2Story,-28.630488443032178
+categorical__House Style_SFoyer,5033.198980037427
+categorical__House Style_SLvl,-0.0
+categorical__Roof Style_Flat,-0.0
+categorical__Roof Style_Gable,0.0
+categorical__Roof Style_Gambrel,-0.0
+categorical__Roof Style_Hip,1044.8032550967189
+categorical__Roof Style_Mansard,-0.0
+categorical__Roof Style_Shed,0.0
+categorical__Roof Matl_ClyTile,-284334.37433647295
+categorical__Roof Matl_CompShg,0.0
+categorical__Roof Matl_Membran,0.0
+categorical__Roof Matl_Metal,0.0
+categorical__Roof Matl_Roll,0.0
+categorical__Roof Matl_Tar&Grv,-0.0
+categorical__Roof Matl_WdShake,-0.0
+categorical__Roof Matl_WdShngl,32034.711747617832
+categorical__Exterior 1st_AsbShng,-0.0
+categorical__Exterior 1st_AsphShn,0.0
+categorical__Exterior 1st_BrkComm,0.0
+categorical__Exterior 1st_BrkFace,12430.253398283967
+categorical__Exterior 1st_CBlock,0.0
+categorical__Exterior 1st_CemntBd,3014.1848779380553
+categorical__Exterior 1st_HdBoard,-1084.4936219690937
+categorical__Exterior 1st_ImStucc,0.0
+categorical__Exterior 1st_MetalSd,186.55847092980974
+categorical__Exterior 1st_Plywood,-0.0
+categorical__Exterior 1st_PreCast,0.0
+categorical__Exterior 1st_Stone,0.0
+categorical__Exterior 1st_Stucco,-29.725859016547137
+categorical__Exterior 1st_VinylSd,0.0
+categorical__Exterior 1st_Wd Sdng,-0.0
+categorical__Exterior 1st_WdShing,-66.2153227579541
+categorical__Exterior 2nd_AsbShng,-0.0
+categorical__Exterior 2nd_AsphShn,0.0
+categorical__Exterior 2nd_Brk Cmn,0.0
+categorical__Exterior 2nd_BrkFace,-0.0
+categorical__Exterior 2nd_CBlock,0.0
+categorical__Exterior 2nd_CmentBd,0.0
+categorical__Exterior 2nd_HdBoard,-378.5697407340921
+categorical__Exterior 2nd_ImStucc,0.0
+categorical__Exterior 2nd_MetalSd,1663.6872989408716
+categorical__Exterior 2nd_Plywood,-1346.9068752491996
+categorical__Exterior 2nd_PreCast,0.0
+categorical__Exterior 2nd_Stone,0.0
+categorical__Exterior 2nd_Stucco,-0.0
+categorical__Exterior 2nd_VinylSd,168.35949288909163
+categorical__Exterior 2nd_Wd Sdng,-0.0
+categorical__Exterior 2nd_Wd Shng,-0.0
+categorical__Mas Vnr Type_BrkCmn,-868.5054720365853
+categorical__Mas Vnr Type_BrkFace,0.0
+categorical__Mas Vnr Type_CBlock,0.0
+categorical__Mas Vnr Type_Stone,2997.767067797723
+categorical__Exter Qual_Ex,17830.319727683003
+categorical__Exter Qual_Fa,0.0
+categorical__Exter Qual_Gd,-0.0
+categorical__Exter Qual_TA,-2479.9503774237214
+categorical__Exter Cond_Ex,-0.0
+categorical__Exter Cond_Fa,-0.0
+categorical__Exter Cond_Gd,0.0
+categorical__Exter Cond_Po,0.0
+categorical__Exter Cond_TA,1024.7761576190874
+categorical__Foundation_BrkTil,0.0
+categorical__Foundation_CBlock,-0.0
+categorical__Foundation_PConc,3027.828633729562
+categorical__Foundation_Slab,-11252.665310442777
+categorical__Foundation_Stone,0.0
+categorical__Foundation_Wood,0.0
+categorical__Bsmt Qual_Ex,21974.275992773124
+categorical__Bsmt Qual_Fa,0.0
+categorical__Bsmt Qual_Gd,-170.77057238483874
+categorical__Bsmt Qual_Po,0.0
+categorical__Bsmt Qual_TA,-0.0
+categorical__Bsmt Cond_Ex,0.0
+categorical__Bsmt Cond_Fa,0.0
+categorical__Bsmt Cond_Gd,-509.9814068710693
+categorical__Bsmt Cond_Po,0.0
+categorical__Bsmt Cond_TA,0.0
+categorical__Bsmt Exposure_Av,8620.809748324662
+categorical__Bsmt Exposure_Gd,18707.272355523903
+categorical__Bsmt Exposure_Mn,-12.457107544666881
+categorical__Bsmt Exposure_No,-1967.286308649122
+categorical__BsmtFin Type 1_ALQ,2581.4189811549404
+categorical__BsmtFin Type 1_BLQ,112.84252314232069
+categorical__BsmtFin Type 1_GLQ,5928.173709108092
+categorical__BsmtFin Type 1_LwQ,-1866.9860981926317
+categorical__BsmtFin Type 1_Rec,-634.3157670334531
+categorical__BsmtFin Type 1_Unf,-7590.235412119333
+categorical__BsmtFin Type 2_ALQ,2896.9071592898586
+categorical__BsmtFin Type 2_BLQ,-0.0
+categorical__BsmtFin Type 2_GLQ,2467.005622464554
+categorical__BsmtFin Type 2_LwQ,-0.0
+categorical__BsmtFin Type 2_Rec,-0.0
+categorical__BsmtFin Type 2_Unf,0.0
+categorical__Heating_Floor,0.0
+categorical__Heating_GasA,0.0
+categorical__Heating_GasW,0.0
+categorical__Heating_Grav,-0.0
+categorical__Heating_OthW,0.0
+categorical__Heating_Wall,0.0
+categorical__Heating QC_Ex,2102.187972916212
+categorical__Heating QC_Fa,-0.0
+categorical__Heating QC_Gd,0.0
+categorical__Heating QC_Po,0.0
+categorical__Heating QC_TA,-1234.1806710479168
+categorical__Central Air_N,-0.0
+categorical__Central Air_Y,0.0
+categorical__Electrical_FuseA,-0.0
+categorical__Electrical_FuseF,-0.0
+categorical__Electrical_FuseP,0.0
+categorical__Electrical_Mix,0.0
+categorical__Electrical_SBrkr,1117.4600899088223
+categorical__Kitchen Qual_Ex,24789.303599507544
+categorical__Kitchen Qual_Fa,-0.0
+categorical__Kitchen Qual_Gd,0.0
+categorical__Kitchen Qual_TA,-1177.5521092391311
+categorical__Functional_Maj1,-0.0
+categorical__Functional_Maj2,-0.0
+categorical__Functional_Min1,0.0
+categorical__Functional_Min2,0.0
+categorical__Functional_Mod,-0.0
+categorical__Functional_Sal,0.0
+categorical__Functional_Sev,0.0
+categorical__Functional_Typ,11332.481066308876
+categorical__Fireplace Qu_Ex,9986.523213558216
+categorical__Fireplace Qu_Fa,-0.0
+categorical__Fireplace Qu_Gd,-0.0
+categorical__Fireplace Qu_Po,0.0
+categorical__Fireplace Qu_TA,-304.0594845080786
+categorical__Garage Type_2Types,-0.0
+categorical__Garage Type_Attchd,0.0
+categorical__Garage Type_Basment,-1937.8556050768348
+categorical__Garage Type_BuiltIn,0.0
+categorical__Garage Type_CarPort,-0.0
+categorical__Garage Type_Detchd,2862.6787607535557
+categorical__Garage Finish_Fin,568.3249978102774
+categorical__Garage Finish_RFn,-1865.8025243592626
+categorical__Garage Finish_Unf,0.0
+categorical__Garage Qual_Ex,0.0
+categorical__Garage Qual_Fa,-0.0
+categorical__Garage Qual_Gd,9387.726931116778
+categorical__Garage Qual_Po,0.0
+categorical__Garage Qual_TA,-0.0
+categorical__Garage Cond_Ex,0.0
+categorical__Garage Cond_Fa,-0.0
+categorical__Garage Cond_Gd,0.0
+categorical__Garage Cond_Po,-0.0
+categorical__Garage Cond_TA,1543.7820131516619
+categorical__Paved Drive_N,0.0
+categorical__Paved Drive_P,-100.45230002177146
+categorical__Paved Drive_Y,0.0
+categorical__Pool QC_Ex,18736.26997402576
+categorical__Pool QC_Fa,0.0
+categorical__Pool QC_Gd,-0.0
+categorical__Pool QC_TA,0.0
+categorical__Fence_GdPrv,-0.0
+categorical__Fence_GdWo,-0.0
+categorical__Fence_MnPrv,0.0
+categorical__Fence_MnWw,-0.0
+categorical__Misc Feature_Elev,-130925.64429889878
+categorical__Misc Feature_Gar2,19706.5742049134
+categorical__Misc Feature_Othr,0.0
+categorical__Misc Feature_Shed,-0.0
+categorical__Sale Type_COD,-1677.4555141921865
+categorical__Sale Type_CWD,-0.0
+categorical__Sale Type_Con,0.0
+categorical__Sale Type_ConLD,0.0
+categorical__Sale Type_ConLI,0.0
+categorical__Sale Type_ConLw,0.0
+categorical__Sale Type_New,7198.241068431736
+categorical__Sale Type_Oth,0.0
+categorical__Sale Type_VWD,0.0
+categorical__Sale Type_WD ,-1411.499278192761
+categorical__Sale Condition_Abnorml,-9183.890416713739
+categorical__Sale Condition_AdjLand,0.0
+categorical__Sale Condition_Alloca,0.0
+categorical__Sale Condition_Family,-1203.2124379858142
+categorical__Sale Condition_Normal,0.0
+categorical__Sale Condition_Partial,0.0
